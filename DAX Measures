@@ -1,0 +1,6 @@
+DAX Measurmnets:
+- •	What is the average insurance charge of beneficiaries aged above 60?
+Average charges 61-65 = CALCULATE(AVERAGE('Edited Insurance table ready for visualization'[Charges]), 'Edited Insurance table ready for visualization'[Ages Above or below 60] = "Above 60")
+
+- What is the percentage difference in average charges between beneficiaries over & under 60
+% difference above 60 and below 60 = ([Average charges 61-65] - [Average charges 18-60]) / [Average charges 18-60]] 
