@@ -1,0 +1,13 @@
+- What are the average insurance charges for smokers?
+SQL Code:
+select 
+round(avg(Charges), 2) as "Average Charges"
+from medical_insurance
+where Smoker = "Yes"
+order by Charges desc
+
+- What is the age of top 5 beneficiaries that incur the lowest charges?
+SQL Code:
+select age, charges from medical_insurance
+order by Charges asc
+limit 5
