@@ -1,7 +1,0 @@
-1) Overview:
-The goal of this project is to determine the factors strongly associated with high medical insurance charges or costs, in order to help reduce costs and risk, and create preventative health programs. 
-
-2) Data Description:
-- Source: “Medical Insurance Cost Dataset” - Mosap Abdel-Ghany on Kaggle 
-- Rows: 1338
-- Features (used fields): Age, Smoker, Region (in the US), Charges
