@@ -24,8 +24,9 @@ Data was checked for missing values and validated for incorrect/misspelled value
 - Smokers to non-smokers aged above 60 by region (%)
 
 6) Key Insights:
-•	Smoking status is the main driver of insurance costs
-•	Insurance charges increase with age
-•	Individuals in the northeast region incur the lowest charges
+•	Smoking status increases insurance costs by 280%.
+•	Age above 60 increases charges by 65.83%
+•	Proportion of smokers to non-smokers above 60 in the Southeast region is 32%. 
+
 
 
